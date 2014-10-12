@@ -1,4 +1,4 @@
-netproxy
+netproxy https://quay.io/repository/logankoester/netproxy/status
 ========
 
 netproxy is a Netflix/Hulu/Pandora/etc proxy in a box. Simply build the Docker image on a US server, set your
